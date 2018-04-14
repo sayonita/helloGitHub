@@ -1,0 +1,38 @@
+Hello! World
+~Sayonita
+
+
+1. We are making a new file <- Test.txt
+2. Git has many commands but we would see some basics like - commit, pull, push
+3. Stash and others are important
+
+
+4. When we make a new file, we need to have it to commit it
+a) Locally first
+b) Then we have to push it to remote server in our case your github account?
+
+
+
+FAQ:
+
+1. How did the text file u created der came here?
+-> Open Source is smart enough to pick it
+
+F:\GitHub\.git is keeping track of all.
+
+
+2. It takes only .txt files?
+Ans> It takes all files, except what we mentioned in .gitignore file.
+Let's check it. You do.
+
+Oops we don't yet have a .gitignore file. so we would make one.
+
+Now, we have made a .gitignore file and in it we have mentioned which files to
+ignore.
+
+Now lets commit files locally
+
+3. When you make a new file, there status is Unstaged files, also when you update any old files. we would see them. 
+
+Apan abhi sabhi file commit kar rahe saat mey, we can leave some too
+
