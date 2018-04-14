@@ -1,5 +1,6 @@
-Hello! World
+#Hello! World GIT!!
 ~Sayonita
+
 
 
 1. We are making a new file <- Test.txt
@@ -34,5 +35,21 @@ Now lets commit files locally
 
 3. When you make a new file, there status is Unstaged files, also when you update any old files. we would see them. 
 
-Apan abhi sabhi file commit kar rahe saat mey, we can leave some too
+Apan abhi sabhi file commit kar rahe saat mey, we can leave some too.
 
+Oops I staged all. So I can unstag them as well.
+
+Your turn now. Stage only .gitignore and test.txt Use stage selected :P fir se karo aap
+
+Cool, now we have to provide a message. Write -inital commit in message box. Why because when we commit, we provide a message what we have changed in the file. 
+
+Click on commit. Congrats!
+
+Now if you see in Source tree, test.txt is changed.
+
+we added few lines more which are show in + and the deleted or changed with -
+
+ 
+Now Push would push it to your remote, url - https://github.com/sayonita/helloGitHub
+
+Okay?hm
