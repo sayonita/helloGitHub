@@ -1,3 +1,7 @@
 Hi
 Good afternoon!
 good night
+
+kaahd dikh rha commit time uodate time etc n how do i knw whch is commit n whch is update
+
+Lets update it. Ctrl+S
