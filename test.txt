@@ -24,9 +24,7 @@ F:\GitHub\.git is keeping track of all.
 
 2. It takes only .txt files?
 Ans> It takes all files, except what we mentioned in .gitignore file.
-Let's check it. You do.
-
-Oops we don't yet have a .gitignore file. so we would make one.
+we don't yet have a .gitignore file. so we would make one.
 
 Now, we have made a .gitignore file and in it we have mentioned which files to
 ignore.
@@ -35,9 +33,6 @@ Now lets commit files locally
 
 3. When you make a new file, there status is Unstaged files, also when you update any old files. we would see them. 
 
-Apan abhi sabhi file commit kar rahe saat mey, we can leave some too.
-
-Oops I staged all. So I can unstag them as well.
 
 Your turn now. Stage only .gitignore and test.txt Use stage selected :P fir se karo aap
 
@@ -50,6 +45,11 @@ Now if you see in Source tree, test.txt is changed.
 we added few lines more which are show in + and the deleted or changed with -
 
  
-Now Push would push it to your remote, url - https://github.com/sayonita/helloGitHub
+Now Push would push it to your remote, url - https://github.com/sayonita/helloGitHub  psuh kru?
 
-Okay?hm
+Ye inmport hai yaha, as aap abhi alone ho, koi branch nahi,so by default sab master mey jata hai.
+
+- master
+-sayonita-branch
+-xyz-branch
+
